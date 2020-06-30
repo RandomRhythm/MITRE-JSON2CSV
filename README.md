@@ -1,2 +1,3 @@
 # MITRE-JSON2CSV
-Convert enterprise-attack.json into a CSV format
+
+Quick script I wrote to convert enterprise-attack.json into a CSV format.
